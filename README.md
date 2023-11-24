@@ -10,6 +10,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [LongestSubstringWithoutRepeatingCharacters](Problems/LongestSubstringWithoutRepeatingCharacters/) | Primary loop with right pointer, moving the left pointer when duplicates are discovered. |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [LongestRepeatingCharacterReplacement](Problems/LongestRepeatingCharacterReplacement) | For loop with right pointer, move left pointer when window size minus max letter count exceeds k. |
 
 ## Stack
 | Problem | Solution | Hints |
