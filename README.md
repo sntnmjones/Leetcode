@@ -6,6 +6,11 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 |---|---|---|
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [KokoEatingBananas](Problems/KokoEatingBananas/) | Don't return when a match is found and track the highest k |
 
+## Linked List
+| Problem | Solution | Hints |
+|---|---|---|
+| [Reorder List](https://leetcode.com/problems/reorder-list) | [ReorderList](Problems/ReorderList/) | Use fast pointer to find the middle. Create two lists, reversing the second half. Merge both halves. |
+
 ## Sliding Window
 | Problem | Solution | Hints |
 |---|---|---|
