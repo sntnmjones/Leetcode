@@ -12,6 +12,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | [Reorder List](https://leetcode.com/problems/reorder-list) | [ReorderList](Problems/ReorderList/) | Use fast pointer to find the middle. Create two lists, reversing the second half. Merge both halves. |
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [RemoveNthNodeFromEndOfList](Problems/RemoveNthNodeFromEndOfList/) | Find the length of the list, iterate through again, removing the Nth node from last |
 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [CopyListWithRandomPointer](Problems/CopyListWithRandomPointer/) | Use a map of old to new nodes |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [AddTwoNumbers](Problems/AddTwoNumbers/) | Reverse l1 and l2, add them, reverse the result and parse to linked list. |
 
 ## Sliding Window
 | Problem | Solution | Hints |
