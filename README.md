@@ -1,6 +1,12 @@
 # Leetcode
 Non executable code of Leetcode problems that I've found difficult, to reference later or help others.
 
+## Table of Contents
+- [Binary Search](#binary-search)
+- [Linked List](#linked-list)
+- [Sliding Window](#sliding-window)
+- [Stack](#stack)
+
 ## Binary Search
 | Problem | Solution | Hints |
 |---|---|---|
