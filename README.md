@@ -3,6 +3,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 
 ## Table of Contents
 - [Binary Search](#binary-search)
+- [Binary Tree](#binary-tree)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stack](#stack)
@@ -11,6 +12,11 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [KokoEatingBananas](Problems/KokoEatingBananas/) | Don't return when a match is found and track the highest k |
+
+## Binary Tree
+| Problem | Solution | Hints |
+|---|---|---|
+| [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [DiameterOfBinaryTree](Problems/DiameterOfBinaryTree/) | Diameter is the sum of left plus right. |
 
 ## Linked List
 | Problem | Solution | Hints |
