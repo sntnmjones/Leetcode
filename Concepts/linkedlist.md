@@ -1,6 +1,6 @@
 # Table of Contents
-[Fast and Slow Pointers](#fast-and-slow-pointers)
-[Reverse a Linked List](#reverse-a-linked-list)
+- [Fast and Slow Pointers](#fast-and-slow-pointers)
+- [Reverse a Linked List](#reverse-a-linked-list)
 
 # Fast and Slow Pointers
 Use fast and slow pointers to find the middle of the list.  
