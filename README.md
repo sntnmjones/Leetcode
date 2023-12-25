@@ -2,11 +2,17 @@
 Non executable code of Leetcode problems that I've found difficult, to reference later or help others.
 
 ## Table of Contents
+- [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
 - [Binary Tree](#binary-tree)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stack](#stack)
+
+## Backtracking
+| Problem | Solution | Hints |
+|---|---|---|
+| [Subsets](https://leetcode.com/problems/subsets) | [Subsets](Problems/Subsets/) | Append, iterate, pop, iterate |
 
 ## Binary Search
 | Problem | Solution | Hints |
