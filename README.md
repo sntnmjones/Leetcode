@@ -13,6 +13,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [Subsets](https://leetcode.com/problems/subsets) | [Subsets](Problems/Subsets/) | Append, iterate, pop, iterate |
+| [Permutations](https://leetcode.com/problems/permutations) | [Permutations](Problems/Permutations/) | Append when perm length is correct. Iterate over options using for loop, checking for duplicates |
 
 ## Binary Search
 | Problem | Solution | Hints |
