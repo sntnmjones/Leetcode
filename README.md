@@ -5,6 +5,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 - [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
 - [Binary Tree](#binary-tree)
+- [Graph](#graph)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
 - [Stack](#stack)
@@ -26,6 +27,11 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [DiameterOfBinaryTree](Problems/DiameterOfBinaryTree/) | Diameter is the sum of left plus right. |
 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [SubtreeOfAnotherTree](Problems/SubtreeOfAnotherTree/) | Traverse tree, checking at each node if the subtrees are the same |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [BinaryTreeLevelOrderTraversal](Problems/BinaryTreeLevelOrderTraversal/) | Use a queue for standard BFS, but use a for loop to perform action across the level of the tree. |
+
+## Graph
+| Problem | Solution | Hints |
+|---|---|---|
+| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [SurroundedRegions](Problems/SurroundedRegions/) | Search the matrix border for 'O's, add them to queue for BFS. BFS to change groups to an unused char. Iterate through matrix to change the rest. |
 
 ## Linked List
 | Problem | Solution | Hints |
