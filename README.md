@@ -5,6 +5,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 - [Backtracking](#backtracking)
 - [Binary Search](#binary-search)
 - [Binary Tree](#binary-tree)
+- [Dynamic Programming]()
 - [Graph](#graph)
 - [Linked List](#linked-list)
 - [Sliding Window](#sliding-window)
@@ -27,6 +28,11 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | [Diameter Of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [DiameterOfBinaryTree](Problems/DiameterOfBinaryTree/) | Diameter is the sum of left plus right. |
 | [Subtree Of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [SubtreeOfAnotherTree](Problems/SubtreeOfAnotherTree/) | Traverse tree, checking at each node if the subtrees are the same |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [BinaryTreeLevelOrderTraversal](Problems/BinaryTreeLevelOrderTraversal/) | Use a queue for standard BFS, but use a for loop to perform action across the level of the tree. |
+
+## Dynamic Programming
+| Problem | Solution | Hints |
+|---|---|---|
+| [House Robber II](https://leetcode.com/problems/house-robber-ii) | [HouseRobberTwo](Problems/HouseRobberTwo/) | Run House Robber One twice on two different lists of houses, skipping first and skipping last. |
 
 ## Graph
 | Problem | Solution | Hints |
