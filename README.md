@@ -33,6 +33,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [HouseRobberTwo](Problems/HouseRobberTwo/) | Run House Robber One twice on two different lists of houses, skipping first and skipping last. |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [LongestPalindromicSubstring](Problems/LongestPalindromicSubstring) | Iterate through string twice, using left and right pointers. |
 
 ## Graph
 | Problem | Solution | Hints |
