@@ -39,6 +39,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [SurroundedRegions](Problems/SurroundedRegions/) | Search the matrix border for 'O's, add them to queue for BFS. BFS to change groups to an unused char. Iterate through matrix to change the rest. |
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges)] | [RottingOranges](Problems/RottingOranges/) | Count the fresh oranges and add rotten to a queue. Use row level traversal to infect neighbors, tracking time and fresh fruit. |
 
 ## Linked List
 | Problem | Solution | Hints |
