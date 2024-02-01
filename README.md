@@ -14,7 +14,8 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 ## Backtracking
 | Problem | Solution | Hints |
 |---|---|---|
-| [Subsets](https://leetcode.com/problems/subsets) | [Subsets](Problems/Subsets/) | Append, iterate, pop, iterate |
+| [Subsets](https://leetcode.com/problems/subsets) | [Subsets](Problems/Subsets/) | Append, increment, pop, increment |
+| [Subsets II](https://leetcode.com/problems/subsets-ii) | [SubsetsII](Problems/SubsetsII/) | Sort, append, increment, pop, increment |
 | [Permutations](https://leetcode.com/problems/permutations) | [Permutations](Problems/Permutations/) | Append when perm length is correct. Iterate over options using for loop, checking for duplicates |
 
 ## Binary Search
