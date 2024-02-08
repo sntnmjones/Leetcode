@@ -61,3 +61,4 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 | Problem | Solution | Hints |
 |---|---|---|
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [DailyTemperatures](Problems/DailyTemperatures/) | When a prevTemp is higher than the curTemp, pop off the stack and get the difference in days. |
+| [Car Fleet](https://leetcode.com/problems/car-fleet) | [CarFleet](Problems/CarFleet/) | Go through cars by nearest to target first, tracking groups in a stack |
