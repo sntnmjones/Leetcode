@@ -21,6 +21,7 @@ Non executable code of Leetcode problems that I've found difficult, to reference
 ## Binary Search
 | Problem | Solution | Hints |
 |---|---|---|
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [ConvertSortedArrayToBinarySearchTree](/Problems/ConvertSortedArrayToBinarySearchTree/) | Use recursion to create nodes at the midpoint of both the right and left side |
 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [KokoEatingBananas](Problems/KokoEatingBananas/) | Don't return when a match is found and track the highest k |
 
 ## Binary Tree
